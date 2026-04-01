@@ -24,9 +24,18 @@
 - ⚡ Focused on **Machine Learning, MLOps & Deployment**  
 - 🧠 Currently learning: **AWS, CI/CD, Model Monitoring**  
 - 📫 Reach me: **samkumarr24@gmail.com**
+- 🔗 [Portfolio](https://portfoliosam-puce.vercel.app/)
 
 ---
+---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,git,mysql,tensorflow,sklearn,pandas,aws,fastapi,vscode" />
+</p>
+
+---
 ## 🚀 Featured Project
 
 ### 🛍️ Fashion Recommendation System (MLOps)
@@ -41,15 +50,6 @@
 
 👉 https://github.com/Samkumar24/End-to-End-Fashion-Recommendation-System-with-MLOps
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,git,mysql,tensorflow,sklearn,pandas,aws,fastapi,vscode" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
