@@ -3,16 +3,16 @@
 <h3 align="center">Aspiring Data Scientist | MLOps Enthusiast 🚀</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/samkumarr24/" target="blank">
+  <a href="https://leetcode.com/u/samkumarr24/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" height="30" />
   </a>
-  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/sam-kumar-r-43043725a/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="30"/>
+  <a href="https://www.linkedin.com/in/sam-kumar-r-43043725a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;MLOps+Engineer+in+Progress;Building+End-to-End+Projects;Passionate+about+AI+%26+ML" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;MLOps+Engineer+in+Progress;Building+End-to-End+ML+Projects;Passionate+about+AI+%26+ML" />
 </p>
 
 ---
@@ -20,9 +20,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 MSc Data Science @ Christ University  
-- 🔭 Currently working on **End-to-End Fashion Recommendation System (MLOps)**  
-- ⚡ Strong interest in **Machine Learning, MLOps & Deployment**  
-- 🧠 Learning: **AWS, CI/CD, Model Monitoring**  
+- 🔭 Building **End-to-End ML Systems with MLOps**  
+- ⚡ Focused on **Machine Learning, MLOps & Deployment**  
+- 🧠 Currently learning: **AWS, CI/CD, Model Monitoring**  
 - 📫 Reach me: **samkumarr24@gmail.com**
 
 ---
@@ -39,11 +39,11 @@
 - 🔹 Deployment on AWS EC2  
 - 🔹 FastAPI + Streamlit Integration  
 
-👉 [View Project](https://github.com/Samkumar24/End-to-End-Fashion-Recommendation-System-with-MLOps)
+👉 https://github.com/Samkumar24/End-to-End-Fashion-Recommendation-System-with-MLOps
 
 ---
 
-## 🛠️ Tech Stack-
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,git,mysql,tensorflow,sklearn,pandas,aws,fastapi,vscode" />
@@ -79,5 +79,3 @@
     <img width="80%" src="https://leetcard.jacoblin.cool/samkumarr24?theme=dark&font=Atkinson%20Hyperlegible" />
   </a>
 </p>
-
----
