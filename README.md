@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,git,mysql,tensorflow,sklearn,pandas,aws,fastapi,vscode" />
