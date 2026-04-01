@@ -6,7 +6,7 @@
   <a href="https://leetcode.com/u/samkumarr24/" target="blank">
     <img src="https://skillicons.dev/icons?i=leetcode" height="30" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/sam-kumar-r-43043725a/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="30"/>
   </a>
 </p>
