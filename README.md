@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam Kumar R</h1>
 
-<h3 align="center">Aspiring Data Scientist | MLOps Enthusiast 🚀</h3>
+<h3 align="center">Aspiring Data Scientist | ML 🚀</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/samkumarr24/" target="_blank">
@@ -19,11 +19,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MSc Data Science @ Christ University  
-- 🔭 Building **End-to-End ML Systems with MLOps**  
-- ⚡ Focused on **Machine Learning, MLOps & Deployment**  
-- 🧠 Currently learning: **AWS, CI/CD, Model Monitoring**  
-- 📫 Reach me: **samkumarr24@gmail.com**
+- 🎓 MSc Data Analytics @ Christ University, Bengaluru
+- 🚀 I build ML systems that go from notebook → production
+- ☁️ Deployment toolkit: Docker · FastAPI · GitHub Actions · AWS EC2
+- 📫 samkumarr24@gmail.com
 - 🔗 [Portfolio](https://portfoliosam-puce.vercel.app/)
 
 ---
@@ -38,17 +37,16 @@
 ---
 ## 🚀 Featured Project
 
-### 🛍️ Fashion Recommendation System (MLOps)
+### 📉 Customer Churn Risk Prediction — RFM Retention Strategy + A/B Testing
 
-- 🔹 End-to-End ML Pipeline  
-- 🔹 Data Ingestion → Validation → Transformation → Training  
-- 🔹 MLflow + DagsHub for Experiment Tracking  
-- 🔹 CI/CD using GitHub Actions  
-- 🔹 Dockerized Application  
-- 🔹 Deployment on AWS EC2  
-- 🔹 FastAPI + Streamlit Integration  
+- 🎯 Balanced Random Forest to flag high-risk customers
+- 🧮 RFM segmentation to decide who gets retention offers first
+- 🧪 A/B test of a 10% retention offer on model-flagged customers
+- 📊 MLflow experiment tracking
+- 🔁 CI/CD pipeline
+- 🐳 FastAPI + Streamlit, Dockerized, deployed on AWS EC2
 
-👉 https://github.com/Samkumar24/End-to-End-Fashion-Recommendation-System-with-MLOps
+👉 [View Repo](https://github.com/Samkumar24/Customer-Churn-Risk-Prediction-RFM-Based-Retention-Strategy-with-A-B-Testing)
 
 
 ## 📊 GitHub Stats
